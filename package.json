@@ -1,4 +1,25 @@
 {
-  "name": "md-links",
-  "version": "0.1.0"
+  "name": "susan-md-links",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "md-Links",
+    "Markdown",
+    "links"
+  ],
+  "author": {
+    "name": "Susan Layche",
+    "email": "Susanlayche@gmail.com"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/SuLayche/LIM016-md-links",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
 }
