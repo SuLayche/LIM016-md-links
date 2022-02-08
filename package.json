@@ -19,7 +19,9 @@
   "license": "MIT",
   "repository": "https://github.com/SuLayche/LIM016-md-links",
   "dependencies": {
+    "figlet": "^1.5.2",
     "fs": "0.0.1-security",
+    "node-fetch": "^2.6.7",
     "path": "^0.12.7"
   }
 }
