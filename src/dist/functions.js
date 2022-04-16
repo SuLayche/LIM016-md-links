@@ -1,5 +1,5 @@
 "use strict";
-
+//Susan Layche
 var fs = require('fs'); // Nos permite accder a multiples funciones muy útiles para interactuar con el sistema de archivos.
 
 

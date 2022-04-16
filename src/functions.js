@@ -2,6 +2,7 @@ const fs = require('fs'); // Nos permite accder a multiples funciones muy útile
 const path = require('path'); // Nos permite acceder a multiples opciones para trabajar con rutas de archivos y directorios.
 const fetch = require('node-fetch');
 
+//Susan Layche
 // const isRoute = 'D:\\LABORATORIA\\Mis proyectos BootCamp\\LIM016-md-links\\index.js';
 // const isRoute = 'D:\\LABORATORIA\\Mis proyectos BootCamp\\LIM016-md-links\\src\\data';
 // const isRouteAbsoluta = 'D:\\LABORATORIA\\Mis proyectos BootCamp\\LIM016-md-links\\src\\data\\prueba.md';
